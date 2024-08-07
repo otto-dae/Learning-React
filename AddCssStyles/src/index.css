@@ -1,0 +1,22 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #eeeeee;
+}
+
+/*EXTERNAL CSS STYLE
+-Needs to have a solid naming structure*/
+.button{
+  background-color: hsl(180, 70%, 59%);
+  width: 150px;
+  height: 30px;
+  color: black;
+  border: none;
+  border-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
