@@ -1,0 +1,14 @@
+.Welcome-message{
+  background-color: hsl(271, 50%, 54%);
+  max-width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0;
+}
+.Login-prompt{
+  background-color: hsl(0, 50%, 54%);
+  max-width: fit-content;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 0;
+}
